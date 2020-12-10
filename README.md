@@ -49,7 +49,7 @@ Your browser does not support the video tag.
 </video>
 <h2> More resources: </h2>
 <p style="font-size:150%;">Here are some videos and links to hlep you further, in your path to planning the best event ever</p>
-	<p>Many events are going online and that is why knowing how to make the best of onoinle events is critical, here is a video talking about <a href="https://www.youtube.com/watch?v=5uYR1JvipHY&t=183s">5 Keys to Awesome Virtual Events</a></p>
+	<p style="font-size:150%;">Many events are going online and that is why knowing how to make the best of onoinle events is critical, here is a video talking about <a href="https://www.youtube.com/watch?v=5uYR1JvipHY&t=183s">5 Keys to Awesome Virtual Events</a></p>
 <p style="font-size:150%;">Also kknowing how to set these events and the tools that could be used is explained more at <a href="https://www.youtube.com/watch?v=pyiaqC-hSVA">The Complete Guide to Hosting Live Virtual Events</a></p>
 	<p style="font-size:150%;"> How to Create an Event Planning Checklist </p>
 	<video width="320" height="240" controls>
